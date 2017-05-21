@@ -1,2 +1,2 @@
 # iPowerCoin
-David D'Silva
+P2P energy payment solution
